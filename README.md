@@ -8,5 +8,6 @@ senha: 12345678
 Editar dados mysql
 
 Comandos: 
+composer install
 php artisan migrate 
 php artisan db:seed
