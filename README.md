@@ -11,6 +11,7 @@ senha: 12345678
 composer install
 
 rename .env.example .env
+
 php artisan key:generate
 
 (editar .env com dados mysql)
